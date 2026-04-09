@@ -1,16 +1,18 @@
-# React + Vite
+# 🎨 Mi Primera App con React - Semana 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Hola! Este es mi proyecto de la **Semana 3** de las prácticas en **Alvearium**. 
 
-Currently, two official plugins are available:
+**🌐 Ver aplicación en vivo:** 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📱 ¿Qué es esto?
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Básicamente, es mi primera aplicación web moderna hecha con React. Tiene varias páginas entre las que puedes navegar sin que se recargue el navegador (gracias a React Router), y ya está publicada en internet para que cualquiera pueda verla.
 
-## Expanding the ESLint configuration
+La idea era aprender a:
+- Crear una app desde cero
+- Dividirla en componentes
+- Hacer que las cosas cambien cuando el usuario hace clic
+- Ypublicarla para que se pueda ver online
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
