@@ -14,5 +14,5 @@ La idea era aprender a:
 - Crear una app desde cero
 - Dividirla en componentes
 - Hacer que las cosas cambien cuando el usuario hace clic
-- Ypublicarla para que se pueda ver online
+- Y publicarla para que se pueda ver online
 
